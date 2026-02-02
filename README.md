@@ -50,7 +50,6 @@ The models demonstrated that a small subset of variables explains a meaningful p
 
 ## Files
 - `data/` – Cleaned dataset
-- `notebooks/` – R analysis notebooks  
 - `scripts/` – Modeling and preprocessing scripts  
 - `presentation/` – Hackathon slides  
 
